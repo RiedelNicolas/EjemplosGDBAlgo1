@@ -8,3 +8,5 @@ Orden recomendado:
 * 2- Factorial
 * 3- Multiplicacion de array
 * 4- Bubble Sort
+
+Luego se fueron agregando otros ejemplos sueltos para ir haciendo los videos.
